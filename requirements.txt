@@ -1,0 +1,4 @@
+anthropic>=0.122
+pymupdf>=1.28
+pillow>=11
+playwright>=1.50
